@@ -13,5 +13,3 @@ elif last_digit == 0:
     print(msg.format(number, last_digit), "0")
 else:
     print(msg.format(number, last_digit), "less than 6 and not 0")
-
-# Path: 0x01-python-if_else_loops_functions/2-print_alphabet.py
