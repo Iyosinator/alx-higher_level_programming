@@ -1,3 +1,3 @@
-Python Project - 0x01-python-if_else_loops_functions
+Python Project - 0x01-python-ifelseloopsfunctions
 []: # To the one below:
 []: # #Python Programming Tasks
