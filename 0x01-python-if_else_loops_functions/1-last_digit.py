@@ -13,4 +13,4 @@ elif last_digit == 0:
     print(msg.format(number, last_digit), "0")
 else:
     print(msg.format(number, last_digit), "less than 6 and not 0")
-    
+
